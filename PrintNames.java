@@ -16,7 +16,7 @@ public class PrintNames {
          System.out.println("Boom Kay");
          System.out.println("James Bourne");
          System.out.println("Pum");
-         System.out.println("Poursh");
+         System.out.println("Poursh is Gay");
          System.out.println("Son");
          System.out.println("Pohn");
          System.out.println("Cowpoon");
